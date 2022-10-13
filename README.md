@@ -4,6 +4,8 @@
   <a href="https://github.com/gustavo1902">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo1902&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo1902&layout=compact&langs_count=7&theme=dark"/>
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavo1902)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
