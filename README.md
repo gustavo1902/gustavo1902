@@ -18,6 +18,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
+  <div class="tenor-gif-embed" data-postid="4903969" data-share-method="host" data-aspect-ratio="1.66667" data-width="100%"><a href="https://tenor.com/view/typing-jim-carrey-fast-busy-gif-4903969">Typing Jim Carrey GIF</a>from <a href="https://tenor.com/search/typing-gifs">Typing GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Tecnologias </h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
