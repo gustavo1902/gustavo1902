@@ -17,7 +17,7 @@
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavo1902&theme=great-gatsby)
 
-< !-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=gustavo1902&bg_color=000000&color=D2691E&line=DAA520&point=F0E68C&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=gustavo1902&bg_color=000000&color=D2691E&line=DAA520&point=F0E68C&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
