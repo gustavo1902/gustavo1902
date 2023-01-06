@@ -5,7 +5,7 @@
 ## :bar_chart: Minhas estatísticas:
 [![profile_visits](https://komarev.com/ghpvc/?username=gustavo1902&color=blueviolet&style=flat-square&label=Profile+Visits)](https://github.com/gustavo1902 "since Dec 25, 2021")
 [![github](https://img.shields.io/github/followers/gustavo1902?logo=github)](https://github.com/gustavo1902?tab=followers)
-[![wakatime](https://wakatime.com/badge/user/93ba8c47-113a-429d-a9a3-0fdfb901b21b.svg)](https://wakatime.com/@93ba8c47-113a-429d-a9a3-0fdfb901b21b "since Apr 8, 2021")
+
 
 <div>
   
