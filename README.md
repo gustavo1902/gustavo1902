@@ -6,16 +6,24 @@
 [![profile_visits](https://komarev.com/ghpvc/?username=gustavo1902&color=blueviolet&style=flat-square&label=Profile+Visits)](https://github.com/gustavo1902 "since Dec 25, 2021")
 [![github](https://img.shields.io/github/followers/gustavo1902?logo=github)](https://github.com/gustavo1902?tab=followers)
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=gustavo1902&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" alt="GitHub stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo1902&layout=compact&langs_count=16&theme=great-gatsby" alt="Most used languages">
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavo1902&theme=great-gatsby" alt="GitHub Streak">
+    </td>
+  </tr>
+</table>
 
-<div>
-  
-  <img  height="195em" src="https://github-readme-stats.vercel.app/api?username=gustavo1902&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo1902&layout=compact&langs_count=16&theme=great-gatsby"/>
-  
-</div>
 
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavo1902&theme=great-gatsby)
 
 
 <div  align="center"> 
