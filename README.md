@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ad8b22#&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B6914#&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ad8b22&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Gustavo+M.+Costa;tenho+19+anos+de+idade;Discente+BCC+Universidade+Federal+de+Alfenas;Seja+bem+-+vindo!+:%29)](https://git.io/typing-svg)
 
@@ -16,7 +16,9 @@
     </td>
   </tr>
   <tr>
-    <td></td>
+    <td>
+     <img src="https://github-profile-trophy.vercel.app/?username=gustavo1902&theme=great-gatsby&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+    </td>
     <td colspan="2">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavo1902&theme=great-gatsby" alt="GitHub Streak">
     </td>
@@ -24,7 +26,7 @@
 </table>
 
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gustavo1902&bg_color=1e1e24&color=ffd700&line=ffd700&point=ffd700&area=50&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
