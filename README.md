@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ad8b22&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Gustavo+M.+Costa;tenho+19+anos+de+idade;Discente+BCC+Universidade+Federal+de+Alfenas;Seja+bem+-+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ad8b22&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Gustavo+M.+Costa;tenho+20+anos+de+idade;Discente+BCC+Universidade+Federal+de+Alfenas;Seja+bem+-+vindo!+:%29)](https://git.io/typing-svg)
 
 ## :bar_chart: Minhas estatísticas:
 [![profile_visits](https://komarev.com/ghpvc/?username=gustavo1902&color=blueviolet&style=flat-square&label=Profile+Visits)](https://github.com/gustavo1902 "since Dec 25, 2021")
@@ -24,9 +24,6 @@
     </td>
   </tr>
 </table>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gustavo1902&bg_color=1e1e24&color=ffd700&line=ffd700&point=ffd700&area=50&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
