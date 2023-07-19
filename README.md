@@ -46,7 +46,6 @@
 
   ##
 
-![Snake animation](https://github.com/gustavo1902/gustavo1902/blob/output/github-contribution-grid-snake.svg)
   ##
  
 
