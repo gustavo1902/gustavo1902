@@ -12,15 +12,15 @@
       <img src="https://github-readme-stats.vercel.app/api?username=gustavo1902&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" alt="GitHub stats">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo1902&layout=compact&langs_count=16&theme=great-gatsby" alt="Most used languages">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavo1902&theme=great-gatsby" alt="GitHub Streak">
     </td>
   </tr>
   <tr>
     <td>
-     <img src="https://github-profile-trophy.vercel.app/?username=gustavo1902&theme=great-gatsby&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo1902&layout=compact&langs_count=16&theme=great-gatsby" alt="Most used languages">
     </td>
     <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavo1902&theme=great-gatsby" alt="GitHub Streak">
+      <img src="https://github-profile-trophy.vercel.app/?username=gustavo1902&theme=great-gatsby&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
     </td>
   </tr>
 </table>
