@@ -5,7 +5,7 @@
 ## :bar_chart:<span style="color:gold">Minhas estatísticas:</span>
 [![profile_visits](https://komarev.com/ghpvc/?username=gustavo1902&color=blueviolet&style=flat-square&label=Profile+Visits)](https://github.com/gustavo1902 "since Dec 25, 2021")
 [![github](https://img.shields.io/github/followers/gustavo1902?logo=github)](https://github.com/gustavo1902?tab=followers)
-
+<!--
 <table>
   <tr>
     <td>
@@ -24,6 +24,7 @@
     </td>
   </tr>
 </table>
+-->
 
 <div align="center">
   <div style="display: flex; justify-content: space-between; align-items: center;">
