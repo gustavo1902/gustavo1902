@@ -1,4 +1,4 @@
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00c4ff&size=35&center=true&vCenter=true&width=1000&lines=Olá;Seja+bem+-+vindo!+:%29)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00c4ff&size=35&center=true&vCenter=true&width=1000&lines=Olá;Seja+bem+-+vindo!+:%29)](https://git.io/typing-svg)-->
 
 # 💻 Tecnologias
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
