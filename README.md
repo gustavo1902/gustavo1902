@@ -15,13 +15,14 @@
   <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavo1902&theme=transparent&border=ADD8E6&stroke=ADD8E6&ring=ADD8E6&fire=ADD8E6&currStreakLabel=ADD8E6&sideNums=ADD8E6&sideLabels=ADD8E6" alt="GitHub Streak">
 </div>
   -->
-
+</div>
 <!--
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo1902&bg_color=000000&color=ADD8E6&title_color=ADD8E6&line=ADD8E6&point=ADD8E6&area_color=ADD8E6&area=true&hide_border=true&radius=10&height=250" alt="GitHub Activity Graph">
 </div>
 -->
----
+
+
 ## 💻 Tecnologias e Ferramentas
 
 ### 🚀 Frontend
@@ -54,6 +55,8 @@
 <a href="https://www.linkedin.com/in/gustavo-morais-costa/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavo1902/gustavo1902/output/github-snake-dark.svg" />
