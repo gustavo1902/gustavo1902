@@ -3,8 +3,7 @@
 </h1>
 
 ### 🚀 Sobre mim
-🔹 **Desenvolvedor de Software** apaixonado por tecnologia e inovação.  
-🔹 Busco sempre aprender novas tecnologias e aprimorar minhas habilidades.  
+🔹 **Desenvolvedor de Software** buscando sempre aprender novas tecnologias e aprimorar minhas habilidades.  
 
 
 ### 📊 <span style="color:#ADD8E6">Minhas Estatísticas:</span>
