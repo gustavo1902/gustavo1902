@@ -9,7 +9,7 @@
 ### 📊 <span style="color:#ADD8E6">Minhas Estatísticas:</span>
 
 <div align="left">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo1902&show_icons=true&theme=transparent&title_color=ADD8E6&text_color=ADD8E6&icon_color=ADD8E6&border_color=ADD8E6&include_all_commits=true&count_private=true" alt="GitHub Stats">-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo1902&show_icons=true&theme=transparent&title_color=ADD8E6&text_color=ADD8E6&icon_color=ADD8E6&border_color=ADD8E6&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo1902&layout=compact&langs_count=16&theme=transparent&title_color=ADD8E6&text_color=ADD8E6&border_color=ADD8E6" alt="Most Used Languages">
  <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavo1902&theme=transparent&border=ADD8E6&stroke=ADD8E6&ring=ADD8E6&fire=ADD8E6&currStreakLabel=ADD8E6&sideNums=ADD8E6&sideLabels=ADD8E6" alt="GitHub Streak">
 -->
